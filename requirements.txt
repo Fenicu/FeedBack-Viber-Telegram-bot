@@ -1,0 +1,4 @@
+PyTelegramBotApi
+flask
+viberbot
+loguru
